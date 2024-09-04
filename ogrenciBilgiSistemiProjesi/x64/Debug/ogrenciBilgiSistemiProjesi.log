@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\halil\OneDrive\Masaüstü\Projeler\c++\Udemy\ogrenciBilgiSistemiProjesi\main.cpp(1,10): warning C4067: ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+  Ogrenci.cpp
+C:\Users\halil\OneDrive\Masaüstü\Projeler\c++\Udemy\ogrenciBilgiSistemiProjesi\Ogrenci.cpp(1,10): warning C4067: ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+  Kod Üretiliyor...
+  ogrenciBilgiSistemiProjesi.vcxproj -> C:\Users\halil\OneDrive\Masaüstü\Projeler\c++\Udemy\ogrenciBilgiSistemiProjesi\x64\Debug\ogrenciBilgiSistemiProjesi.exe
