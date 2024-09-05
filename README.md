@@ -2,4 +2,5 @@
 C++ kullanarak ilk amatörce projem
 
 
-![image](https://github.com/user-attachments/assets/75f0daf9-0eb0-4ab7-a014-0d05c36c64dd)
+![image](https://github.com/user-attachments/assets/c666e066-1b3e-46f0-b040-09f0d4a14200)
+
